@@ -7,8 +7,10 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'tzinfo'
   gem 'tzinfo-data'
+  gem 'github-pages'
 end
 
-gem 'github-pages'
+
 gem 'connection_pool', '2.5.0'
