@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "sam_headshot.jpeg"
   name             : "Sam Metcalf"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" 
   bio              : "Master's Student in the Department of City and Regional Planning"
-  location         : "Chapel Hill, North Carolina"
+  location         : "Chapel Hill, NC"
   employer         : "UNC - Chapel Hill"
   uri              : # URL
   email            : "sdmet@unc.edu" 
