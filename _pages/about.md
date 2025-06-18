@@ -8,10 +8,9 @@ redirect_from:
 ---
 ### Hey! My name is Sam Metcalf, and I'm currently a master's student at the University of North Carolina at Chapel Hill in the [Department of City and Regional Planning](https://planning.unc.edu/). 
 
+I’m particularly focused on housing and community development, and finding smart and equitable solutions to solving the housing crisis.
 
-I’m particularly focused on housing, and finding smart and equitable solutions to solving the housing crisis.
-
-I’m originally from Denver, Colorado, growing up in the Capitol Hill and Park Hill neighborhoods. Growing up here gave me an appreciation for the importance of walkable and equitable environments, and started my interest in urban geography and planning. Since getting to UNC, I’ve encountered first-hand the difficulty of finding affordable housing, and so I’ve decided to focus my studies on solving these issues!
+I’m originally from Denver, Colorado, where I grew to love living in the city and learned to appreciate the importance of walkable and equitable environments. Since arriving at UNC, I’ve studied these issues extensively etc etc ADD MORE HERE
 
 Aside from my coursework, I’m also a member of the Tarpeggios, a co-ed acapella group at UNC… you can stream our most recent album [here](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw?si=VrvuOPSGTauOjsTfjMlvNg). I’m also a member of BuildUP, an urban planning student organization for undergrads at UNC.
 
