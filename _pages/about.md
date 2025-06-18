@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Home
-===
 
 ### Hey! My name is Sam Metcalf, and I'm currently a master's student at the University of North Carolina at Chapel Hill in the [Department of City and Regional Planning](https://planning.unc.edu/). 
 
