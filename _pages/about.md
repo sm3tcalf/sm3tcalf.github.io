@@ -9,7 +9,7 @@ redirect_from:
 ### Hey! My name is Sam Metcalf, and I'm currently a master's student at the University of North Carolina at Chapel Hill in the [Department of City and Regional Planning](https://planning.unc.edu/). 
 
 
-I’m particularly focused on housing, and finding smart and equitable solutions to solving the housing crisis.
+I’m particularly focused on housing, and finding smart and equitable solutions to solving the housing crisis. blah blah blah and also this
 
 I’m originally from Denver, Colorado, growing up in the Capitol Hill and Park Hill neighborhoods. Growing up here gave me an appreciation for the importance of walkable and equitable environments, and started my interest in urban geography and planning. Since getting to UNC, I’ve encountered first-hand the difficulty of finding affordable housing, and so I’ve decided to focus my studies on solving these issues!
 
