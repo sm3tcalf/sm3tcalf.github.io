@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ### Hey! My name is Sam Metcalf, and I'm currently a master's student at the University of North Carolina at Chapel Hill in the [Department of City and Regional Planning](https://planning.unc.edu/). 
 
 
